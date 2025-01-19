@@ -43,8 +43,16 @@ This project implements forecasting models using data science techniques and mac
    jupyter notebook DS1.ipynb
    ```
 
+
 2. Follow the step-by-step instructions in the notebook to:
    - Load and preprocess your data
    - Train the forecasting model
    - Make predictions
    - Evaluate model performance
+
+
+##Output
+![1](https://github.com/user-attachments/assets/856c8d82-b585-478f-ae88-b98a8a9d214b)
+
+![2](https://github.com/user-attachments/assets/6bf9ea56-2342-4f6d-a4b3-7458f8f02fc8)
+
