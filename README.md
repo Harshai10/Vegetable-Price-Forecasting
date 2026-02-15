@@ -1,6 +1,6 @@
 Developed a forecasting model using Python to predict trends over time based on historical and real-time data. Leveraged data analysis techniques and visualization tools within a Jupyter Notebook environment to derive actionable insights. The project emphasized the application of predictive analytics to inform decision-making and enhance operational efficiency.
 
-# Forecasting Model using Data Science
+# Vegetable Price Forecasting using Prophete
 
 A data science project implementing forecasting models for time series analysis and prediction.
 
